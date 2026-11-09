@@ -1,6 +1,6 @@
 extends Node3D
 
-const FIGHTER_SCRIPT = preload("res://scripts/fighter.gd")
+const FIGHTER_SCRIPT = preload("res://fighter.gd")
 const ROSTER = [
     {"name":"Lumine","element":"Anemo","color":Color(0.55,0.86,0.72),"power":"Gale Burst"},
     {"name":"Amber","element":"Pyro","color":Color(1.0,0.34,0.16),"power":"Fiery Rain"},
